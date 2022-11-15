@@ -4,5 +4,5 @@ let b = 10;
 
 console.log(a-b);
 console.log(a/b);
-comsole.log(a+b);
+
 console.log(a*b);
