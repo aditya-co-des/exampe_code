@@ -1,3 +1,3 @@
-let a = 5;
-let b = 10;
+let a = 2;
+let b = 3;
 console.log('c=' ,a+b);
